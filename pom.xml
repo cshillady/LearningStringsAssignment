@@ -11,7 +11,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>learningstringsagain</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>learningstringsagain</name>
+	<name>learningStringsAgain</name>
 	<description>Learning Strings Again smh</description>
 	<properties>
 		<java.version>18</java.version>
@@ -48,7 +48,7 @@
 				<configuration>
 					<excludes>
 						<exclude>
-							<groupId>org.projectlombok</groupId>
+							<groupId>org.project-lombok</groupId>
 							<artifactId>lombok</artifactId>
 						</exclude>
 					</excludes>
