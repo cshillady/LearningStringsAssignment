@@ -16,6 +16,10 @@ public class Car {
     }
 
     // Accessors
+    public int getVin() { return vin; }
+    public int getNumSeats() { return numSeats; }
+    public int getPrice() { return price; }
+    public String getMakeAndModel() { return makeAndModel; }
     public void setVin(int vin) {
         this.vin = vin;
     }

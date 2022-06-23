@@ -20,9 +20,7 @@ public class RaceCar extends Car {
     public String getDriverName() {
         return driverName;
     }
-    public float getTopSpeed() {
-        return topSpeed;
-    }
+    public float getTopSpeed() { return topSpeed; }
     public String getPrimarySponsor() {
         return primarySponsor;
     }

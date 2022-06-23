@@ -13,6 +13,8 @@ public class Truck extends Car {
     }
 
     // Accessors
+    public float getTruckBedLength() { return truckBedLength; }
+    public int getTowingCapacity() { return towingCapacity; }
     public void setTruckBedLength(float truckBedLength) {
         this.truckBedLength = truckBedLength;
     }
