@@ -10,11 +10,13 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>learningstringsagain</artifactId>
+	<packaging>jar</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>learningStringsAgain</name>
 	<description>Learning Strings Again smh</description>
 	<properties>
 		<java.version>18</java.version>
+		<start-class>com.example.learningstringsagain.LearningStringsAgainApplication</start-class>
 	</properties>
 	<dependencies>
 		<dependency>
